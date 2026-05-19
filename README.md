@@ -16,7 +16,14 @@ As principais referências utilizadas neste estudo foram:
 1. *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* – Aurélien Géron  
 2. *An Introduction to Statistical Learning* – Gareth James et al.  
 3. Google Machine Learning Crash Course  
-4. *Pattern Recognition and Machine Learning* – Christopher Bishop  
+4. *Pattern Recognition and Machine Learning* – Christopher Bishop
+5. ## 📚 Curadoria de Fontes
+As principais referências utilizadas neste estudo foram:  
+1. [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) – Aurélien Géron  
+2. [An Introduction to Statistical Learning](https://www.statlearning.com/) – Gareth James et al.  
+3. [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
+4. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-and-machine-learning/) – Christopher Bishop  
+
 
 ---
 
